@@ -1,0 +1,27 @@
+{
+    "ruta": [
+        {
+            id_Ruta: 1;
+        	id_Comuna: 1;
+        	id_Viaje: 3;
+        }
+    ],
+    "solicitud": [
+        {
+            id_Sol: 1;
+    		descrip: '';
+    		id: 1;
+    		id_Viaje: 1;
+    		puntaje: 0;
+        }
+    ],
+    "viaje": [
+        {
+            id_Viaje: 1;
+    		Precio: 2000;
+    		AsientosDISP: 2;
+    		Fecha: '09102020';
+    		patente: "GG-11-RR";
+        }
+    ]
+}
